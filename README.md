@@ -1,2 +1,7 @@
-# swdev-ca2-library
-ATU 2023 - software development - CA2 - Library management system
+# Software development - Continuous Assessment 2 - Library management system
+
+### Authors
+
+- Dimie E
+- Eman A
+- Vince K
